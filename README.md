@@ -2,7 +2,7 @@
 # Tutorial Como Obtener El Tono de Llamada Secreto de Discord
 
 
-> Código del tutorial de [Como Obtener El Tono de Llamada Secreto de Discord](https://google.com)
+> Código del tutorial de [Como Obtener El Tono de Llamada Secreto de Discord](https://youtu.be/7cXMGNv5mfA)
 ## Requisitos
 
 1. Tener una cuenta de Discord
